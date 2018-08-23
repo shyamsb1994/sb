@@ -1,0 +1,29 @@
+[{
+        "employeeID": "1234",
+        "employeeName": "jhon",
+        "employeeNo": "99008",
+        "employeeAddress": "xyza"
+
+
+    }, {
+        "employeeID": "12345",
+        "employeeName": "duke",
+        "employeeNo": "990458",
+        "employeeAddress": "xyzb"
+
+
+    }, {
+
+        "employeeID": "123456",
+        "employeeName": "emma",
+        "employeeNo": "99058",
+        "employeeAddress": "xyzc"
+
+    }, {
+        "employeeID": "1234567",
+        "employeeName": "bretto",
+        "employeeNo": "99458",
+        "employeeAddress": "xyzd"
+
+
+    }]
